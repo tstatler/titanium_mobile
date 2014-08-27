@@ -3,6 +3,8 @@
 ---
 name: Global.JSON
 summary: Global JSON object providing the [parse](Global.JSON.parse) and [stringify](Global.JSON.stringify) methods.
+platforms: [android, iphone, ipad, tizen, mobileweb, blackberry]    
+
 methods:
 
   - name: stringify
