@@ -1,7 +1,7 @@
 # TDoc: The Titanium API Documentation Format
 
 _This documentation is a WIP_
-xxx
+
 The TDoc format follows a simple syntax for declaring Modules, Proxies, Methods, Properties, and Events for Titanium.
 
 ## Layout
